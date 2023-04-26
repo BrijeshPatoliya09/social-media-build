@@ -1,0 +1,17 @@
+.follow_page .followings .main_logo {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 3px solid #fe004d;
+  overflow: hidden;
+}
+
+.follow_page .followings .main_con h6 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.follow_page .followings .main_con p {
+  font-size: 14px;
+  font-weight: 400;
+}
